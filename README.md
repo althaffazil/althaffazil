@@ -29,6 +29,9 @@ I'm a DevOps engineer with a passion for automating and optimizing complex workf
   <a href="https://www.jenkins.io" target="_blank" style="margin: 0 30px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="100" height="100"/>
   </a>
+    <a href="https://www.travis-ci.com/" target="_blank" style="margin: 0 30px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg" alt="Jenkins" width="100" height="100"/>
+  </a>
   <a href="https://www.python.org" target="_blank" style="margin: 0 30px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="100" height="100"/>
   </a>
