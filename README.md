@@ -38,5 +38,10 @@ I'm a DevOps engineer with a passion for automating and optimizing complex workf
   <a href="https://www.gnu.org/software/bash/" target="_blank" style="margin: 0 30px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="100" height="100"/>
   </a>
-
+    <a href="https://prometheus.io" target="_blank" style="margin: 0 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="100" height="100"/>
+  </a>
+  <a href="https://grafana.com" target="_blank" style="margin: 0 30px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="100" height="100"/>
+  </a>
 </p>
