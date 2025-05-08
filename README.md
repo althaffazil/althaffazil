@@ -1,10 +1,3 @@
-# Hi, I'm Althaf
-## About Me
-
-Student
-
-## Technologies & Tools
-
 <p align="center">
   <a href="https://www.linux.org" target="_blank" style="margin: 0 100px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="100" height="100"/>
